@@ -1,0 +1,1 @@
+// Implement a function that flattens a nested array in JavaScript, converting it into a single-level array. 

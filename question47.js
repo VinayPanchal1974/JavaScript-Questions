@@ -1,0 +1,1 @@
+// Implement a function that returns the average value of numbers in an array. 

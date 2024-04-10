@@ -1,0 +1,1 @@
+// Implement a function that merges two arrays into a single array, alternating elements from each array. 
