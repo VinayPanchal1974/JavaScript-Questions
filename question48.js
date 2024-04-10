@@ -1,0 +1,1 @@
+// Implement a function that finds the index of a specific element in an array. If the element is not found, the function should return -1. 
