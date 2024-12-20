@@ -7,24 +7,19 @@
 // const str = "my name is vinay"
 // console.log(revStr(str))
 
-
-
-// function fun(str) {
-//     const st = str.split(" ").map((ele) => {
-//         return ele.split("").reverse().join("")
-//     }).join(" ")
-//     return st
+// const name1 = 'my name is vinay';
+// let finalName = '';
+// let changeName = '';
+// for (let i = 0; i < name1.length; i++) {
+//     if(name1[i]!== " "){
+//         changeName = name1[i] + changeName
+//     }else{
+//         finalName += changeName + " "
+//         changeName = ""
+//     }     
 // }
-
-// console.log(fun("my name is vinay"))
-
-// function reverseString(str) {
-//     return str.split(" ").map((ele) => {
-//         return ele.split("").reverse().join("")
-//     }).join(" ")
-// }
-// const answer = reverseString("my name is vinay")
-// console.log(answer);
+// finalName = finalName + changeName;
+// console.log(finalName);
 
 // function reverseString(str) {
 //     const arr = [];
@@ -39,17 +34,3 @@
 // }
 // const answer = reverseString("my name is vinay")
 // console.log(answer);
-
-// const name1 = 'my name is vinay';
-// let finalName = '';
-// let changeName = '';
-// for (let i = 0; i < name1.length; i++) {
-//     if(name1[i]!== " "){
-//         changeName = name1[i] + changeName
-//     }else{
-//         finalName += changeName + " "
-//         changeName = ""
-//     }     
-// }
-// finalName = finalName + changeName;
-// console.log(finalName);
