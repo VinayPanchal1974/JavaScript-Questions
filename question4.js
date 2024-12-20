@@ -1,6 +1,6 @@
 // How would you check if a number is an integer?
 // function intCheck(num) {
-//     return num % 1 === 0 ? "it is a integer" : "it is not intiger"
+//     return num % 1 === 0 ? "it is a integer" : "it is not integer"
 // }
 // console.log(intCheck(10))
 // console.log(intCheck(10.5))

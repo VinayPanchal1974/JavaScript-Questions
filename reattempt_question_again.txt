@@ -1,0 +1,1 @@
+1. Question 3 should be tried again with for loop.
